@@ -2,6 +2,6 @@
 
 
 # Samples
-<img src="results.jpeg" width="900px" height="411px"/>
+<img src="results.jpeg" width="880px" height="411px"/>
 
 
